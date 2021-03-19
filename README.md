@@ -7,6 +7,6 @@
 * (TBA...)
 
 ### Connect me via:
-[My facebook] (https://www.facebook.com/motcai.ten.10485/)
-[My email] (mailto: loatothe1@gmail.com)
+[My facebook](https://www.facebook.com/motcai.ten.10485/)
+[My email](mailto: loatothe1@gmail.com)
 © 2021 coder nhí.
