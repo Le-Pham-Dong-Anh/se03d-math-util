@@ -1,0 +1,12 @@
+câu lệnh quen làm hằng ngày khi kho đã có rồi, đã được đưa lên server rồi
+-vào cửa sổ lệnh, chuyển đến thư mục chứ code muốn đẩy lên server. Dùng lệnh CD theo từng mức thư mục/directory/folder
+-thoải mái sửa code, thêm bớt tệp tin trong kho
+- sau cùng gõ 3 lệnh huyền thoại
+git add * git add . đều đc
+git commit -m "Ghi-rõ-và-tóm-tắt-bạn-đã-sử-gì"
+git push
+
+khi kho đc chia sẻ chung cho mọi người cùng sửa - project có nhiều người cùng làm - ta phải invite mọi người vào chơi chung trong kho, có nút nhấn trên server để invite
+(giống share google doc)
+- coi chừng cờ hó nó cắn, bị conflict khi nhiều người cùng thao tác trên 1 tài nguyên, 1 tập tin khi nào bị conflict
+xử lí thế nào
